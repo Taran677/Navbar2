@@ -367,7 +367,7 @@ a,
 }
 @media screen and (max-width:539px) {
     .div1, .div2{
-        font-size: xx-small;
+        font-size: small;
     }
     .li8 a div svg
     {
