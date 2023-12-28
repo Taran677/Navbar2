@@ -2,7 +2,6 @@
     box-sizing: inherit;
     padding: 0;
     margin: 0;
-    font-size: x-small;
 }
 .list::-webkit-scrollbar
 {
